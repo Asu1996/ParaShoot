@@ -8,7 +8,6 @@ class WebcamVideoStream:
 		# from the stream
 		self.stream = cv2.VideoCapture(src)
 		(self.grabbed, self.frame) = self.stream.read()
- 
 		# initialize the variable used to indicate if the thread should
 		# be stopped
 		self.stopped = False
@@ -27,7 +26,7 @@ class WebcamVideoStream:
  
 			# otherwise, read the next frame from the stream
 			(self.grabbed, self.frame) = self.stream.read()
- 
+
 	def read(self):
 		# return the frame most recently read
 		return self.frame
