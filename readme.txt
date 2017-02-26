@@ -1,7 +1,5 @@
-change 1
-change 2
-change 3
-change 4
-change 5
-change 6
-change 7
+So people our project s all about an intrusion detection and avoidance system or rather micro-system. Image Processing using OpenCV in Python forms the skeleton of our project. A Dual cam system captures the exact location of an object in 3 dimensional plane. When I say "exact", I really so mean it !! A basic "HACK" which we did to the cameras is the removal of the ir filter. This enables the camera to detect IR radiation and perceive efficiently at night as well. Based on the location obtained by the two images, a gun with two degrees of freedom will point at the intrusive person. Well, the subsequent need not be told. trespassers will be "EXECUTED" !!. And the beauty of it is that this entore system is on wheels implying that this could be a complete breakthrough technology for a nations army. This little yet state of the art model would prove instrumental in saving thousands of life of our brave military men. In Futur Prosche or the near future as it is called, we plan to install track belts on our bot to enhance locmotion in rocky border areas. Another which shall be a future scope is the communication between the bot and the control station over radio channels. We also intend to implement real time gps tracking of the bot, something which was left in the development stage due to time restraints. This shall be the core structure when a large fleet of such bots is to be managed and my teams' enthusiasm tells me that this shall soon turn into reality.
+
+And finally Kudos! to the Raspberry Pi Foundation for crafting such an amazing prototyping platform without which our project would have only been a dream.
+
+And well. ... that's just the beginning ! Stay Tuned...
